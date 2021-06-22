@@ -1002,13 +1002,9 @@ body.offcanvas .colorlib-nav-toggle {
   margin-top: 60px;
 }
 
-.services .desc ul {
-  padding: 0;
-}
-
 .services .desc li {
   display: -webkit-box;
-  -webkit-line-clamp: 4;
+  -webkit-line-clamp: 2;
   -webkit-box-orient: vertical;
   overflow: hidden;
   text-overflow: ellipsis;

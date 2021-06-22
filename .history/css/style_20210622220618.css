@@ -1003,16 +1003,7 @@ body.offcanvas .colorlib-nav-toggle {
 }
 
 .services .desc ul {
-  padding: 0;
-}
-
-.services .desc li {
-  display: -webkit-box;
-  -webkit-line-clamp: 4;
-  -webkit-box-orient: vertical;
-  overflow: hidden;
-  text-overflow: ellipsis;
-  word-break: break-word;
+  text-align: center;
 }
 
 .services .desc h3 {
